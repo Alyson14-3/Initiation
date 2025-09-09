@@ -1,0 +1,39 @@
+Correction
+
+1) Qu'est ce que Git ? Quelle différence avec GitHub ?
+c'est un gestionnaire de version gratuit, git est un logiciel/ github un site web
+
+2) Qu'est ce qu'un Repository ?
+un espace de stockage,et de gestion de code sources
+Ce nest pas un dossier propre a nous
+
+3) Qu'est ce qu'un commit ? Un push ? Un pull ?
+un commit est un git, pousser le commit vers une branche de notre ordinateur, un pull pour télécharger puis mettre a jour directement sur le local
+c'est le commentaire d'un changement, pousse la modification vers GitHub, 
+
+4) A quoi sert le fichier README.md dans un repository GitHub ?
+Il sert a une premier impression du projet pour que les autres développeurs sache ce que l'on fait
+
+5) Comment récupérer un repository GitHub en ligne de commande sur un invite de commande ?
+il faut cloner URL en utilisant la commande git clone
+
+Quelques questions sur les OS et plus particulièrement Linux :
+
+1) Qu'est ce qu'un OS ? A quoi cela sert il ?
+Un OS est un système d'exploitation, cela sert a allume et pouvoir utilise un ordinateur sans os il est impossible de pouvoir l'utiliser
+
+2) Quelles sont les 3 principales familles d'OS ?
+Windows, Linux, IOS
+
+3) Linux est-il un OS ou une famille d'OS ?
+un OS famille os
+
+4) Donnez moi 4 OS á noyau Linux
+Ubuntu
+RedHat
+Linux Mint 
+ArchLinux
+
+5) Quelle est la particularité principale des OS Linux par rapport aux autres ?
+C'est qu'un os linux sont diffèrent les uns des autres car chacun peut cree sont propre linux
+Libre et Open source
